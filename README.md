@@ -1,7 +1,7 @@
 # File-Analyser_01
 Data science project to prints the percentage of each alphabetical char in a file
 
-# Output of the project
+# Output of the project for sample file
 
 a = 4% &nbsp; and &nbsp; A = 0% \
 b = 1% &nbsp; and &nbsp; B = 0%\
