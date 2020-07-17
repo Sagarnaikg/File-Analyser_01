@@ -1,5 +1,5 @@
 # File-Analyser_01
-Data science project to prits the percentage of each alphabetical char in a file
+Data science project to prints the percentage of each alphabetical char in a file
 
 # Output of the project
 
