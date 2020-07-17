@@ -3,7 +3,7 @@ Data science project to prits the percentage of each alphabetical char in a file
 
 # Output of the project
 
-a = 4%  and  A = 0% \
+a = 4% &nbsp; and&nbsp;  A = 0% \
 b = 1%  and  B = 0%\
 c = 2%  and  C = 0%\
 d = 2%  and  D = 0%\
