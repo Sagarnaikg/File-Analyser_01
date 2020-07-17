@@ -28,4 +28,4 @@ v = 1% &nbsp; and &nbsp; V = 0%\
 w = 1% &nbsp; and &nbsp; W = 0%\
 x = 0% &nbsp; and &nbsp; X = 0%\
 y = 1% &nbsp; and &nbsp; Y = 0%\
-z = 0% &nbsp; and &nbsp; Z = 0%\
+z = 0% &nbsp; and &nbsp; Z = 0%
