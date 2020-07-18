@@ -3,6 +3,7 @@ Data science project to prints the percentage of each alphabetical char in a fil
 
 # Output of the project for sample file
 ```
+>>python3 printPerAlphs.py
 
 a = 4%  and  A = 0% 
 b = 1%  and  B = 0%
